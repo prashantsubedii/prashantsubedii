@@ -1,13 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Prashant Subedi</h1>
-<h3 align="center">B.Sc. CSIT Student | Open Source Enthusiast</h3>
+<h3 align="center">B.Sc. CSIT Student | Open Source Enthusiast</h3> <br>
+ <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
 
 - 🎓 Currently pursuing **B.Sc. CSIT** at Tribhuvan University, Nepal (2nd semester)
 - 🌱 Learning **Python, Open Source and Linux CLI** for my future goals and projects
 - 💻 Passionate about Open Source, Web Development, and Software Engineering
 - 📫 How to reach me: **contactprashantsubedi@gmail.com**
-
-  <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
