@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Prashant Subedi</h1>
-<h3 align="center">B.Sc. CSIT Student | Asiring Softare Engineer</h3> <br>
+<h3 align="center">B.Sc. CSIT Student | Aspiring Softare Engineer</h3> <br>
  <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"/>
 
 
 - 🎓 Currently pursuing **B.Sc. CSIT** at Tribhuvan University, Nepal
-- 🌱 Learning **Python, Open Source and Linux CLI** for my future goals and projects
+- 🌱 Learning **Python, Data Structures and Algorithm** for my future goals and projects
 - 💻 Passionate about Open Source, Web Development, and Software Engineering
 - 📫 How to reach me: **contactprashantsubedi@gmail.com**
 
