@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prashant Subedi</h1>
-<h3 align="center">B.Sc. CSIT Student | Aspiring Softare Engineer</h3> <br>
+<h3 align="center">B.Sc. CSIT Student | Aspiring Software Engineer</h3> <br>
  <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"/>
 
 
