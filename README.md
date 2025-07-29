@@ -6,7 +6,7 @@
 - 🎓 Currently pursuing **B.Sc. CSIT** at Tribhuvan University, Nepal
 - 🌱 Learning **Python, Data Structures and Algorithm** for my future goals and projects
 - 💻 Passionate about Open Source, Web Development, and Software Engineering
-- 📫 How to reach me: **contactprashantsubedi@gmail.com**
+- 📫 How to reach me: **contact@prashantsubedi.info.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
