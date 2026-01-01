@@ -10,6 +10,7 @@
 - **Interests:** Focused on Web Development and Software Engineering.
 - **Current Learning:** Strengthening fundamentals in Python and C++.
 - **Workflow:** Enthusiastic about Linux and version control with Git.
+- **Status:** Actively working on academic projects and improving technical skills.
 
 <br clear="right" />
 
@@ -38,7 +39,7 @@
   <a href="https://instagram.com/prashanttsubedi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:contactprashantsubedi@gmail.com">
+  <a href="mailto:subediprashant50@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://prashantsubedi.info.np" target="_blank">
