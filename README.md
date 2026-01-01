@@ -1,27 +1,64 @@
 <h1 align="center">Hi there 👋, I'm Prashant Subedi</h1>
-<h3 align="center">B.Sc. CSIT Student | Aspiring Software Engineer</h3> <br>
- <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"/>
+<p align="center">B.Sc. CSIT Student | Aspiring Software Engineer</p>
 
+---
 
-- 🎓 Currently pursuing **B.Sc. CSIT** at Tribhuvan University, Nepal
-- 🌱 Learning **Python, Data Structures and Algorithm** for my future goals and projects
-- 💻 Passionate about Open Source, Web Development, and Software Engineering
-- 📫 How to reach me: **contact@prashantsubedi.info.np**
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDd6aDV2c24wOHNuMWxrbDhzdWxna3JlbTJnNzdsa2RhMHhqcHd1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍🎓 About Me
+- **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
+- **Interests:** Focused on Web Development and Software Engineering.
+- **Current Learning:** Strengthening fundamentals in Python and C++.
+- **Workflow:** Enthusiastic about Linux and version control with Git.
+
+<br/>
+<br/>
+
+---
+
+## 💻 Languages & Tools
 <p align="left">
-<a href="https://twitter.com/prashantsubedii" target="blank"><img align="center" src="https://www.svgrepo.com/show/452123/twitter.svg" alt="prashantsubedii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prashantsubedii" target="blank"><img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="prashantsubedii" height="30" width="40" /></a>
-<a href="https://instagram.com/prashanttsubedi" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg"alt="prashanttsubedi" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantsubedii&show_icons=true&locale=en&layout=compact" alt="prashantsubedii" /></p>
+## 📊 Activity
+<p align="left">
+  <img width="415" src="https://github-readme-stats.vercel.app/api?username=prashanttsubedi&show_icons=true&theme=dark&hide_border=true" />
+  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttsubedi&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantsubedii&show_icons=true&locale=en" alt="prashantsubedii" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&" alt="prashantsubedii" /></p>
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/prashantsubedii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/prashantsubedii" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/prashanttsubedi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:subediprashant50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://prashantsubedi.info.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-44AA00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashanttsubedi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
