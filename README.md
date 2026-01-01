@@ -5,18 +5,15 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDd6aDV2c24wOHNuMWxrbDhzdWxna3JlbTJnNzdsa2RhMHhqcHd1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me
 - **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
 - **Interests:** Focused on Web Development and Software Engineering.
 - **Current Learning:** Strengthening fundamentals in Python and C++.
 - **Workflow:** Enthusiastic about Linux and version control with Git.
 
-<br/>
-<br/>
+<br clear="right" />
 
----
-
-## 💻 Languages & Tools
+### 💻 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -30,15 +27,7 @@
 
 ---
 
-## 📊 Activity
-<p align="left">
-  <img width="415" src="https://github-readme-stats.vercel.app/api?username=prashanttsubedi&show_icons=true&theme=dark&hide_border=true" />
-  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttsubedi&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/prashantsubedii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -55,10 +44,4 @@
   <a href="https://prashantsubedi.info.np" target="_blank">
     <img src="https://img.shields.io/badge/Website-44AA00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanttsubedi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
