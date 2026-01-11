@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header&text=Prashant%20Subedi&fontSize=50&animation=fadeIn&fontAlignY=30&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Prashant%20Subedi&fontSize=50&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=60" width="100%"/>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="320" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="300" />
 
 - 🔭 **Current Focus:** Strengthening core concepts in Software Engineering.
 - 🐍 **Python:** Interested in writing clean, efficient, and readable code.
@@ -25,10 +25,13 @@
 
 ---
 
-### 📊 Proficiency & Activity
+### 📊 Coding Velocity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&title_color=3776AB&text_color=555&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=nord&color=88c0d0&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
 </p>
 
 ---
