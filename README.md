@@ -8,11 +8,11 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="300" />
 
-- 🔭 **Current Focus:** Strengthening core concepts in Software Engineering.
-- 🐍 **Python:** Interested in writing clean, efficient, and readable code.
-- 🎓 **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- ⚙️ **Workflow:** Translating complex logic into functional, user-centric projects.
-- 🎯 **Goal:** Developing technical skills through academic and personal projects.
+- **Current Focus:** Strengthening fundamentals of Python and Django.
+- **Interests:** Focused on Backend Development and AI/ML Engineering.
+- **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
+- **Workflow:** Translating complex logic into functional, user-centric projects.
+- **Goal:** Developing technical skills through academic and personal projects.
 
 <br clear="right" />
 
