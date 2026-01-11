@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" height="40" />
@@ -37,12 +37,21 @@
 
 ### 📊 Coding Activity
 
-<p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="85%">
+    <tr>
+      <td width="50%" align="center">
+        <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&title_color=3776AB&text_color=ffffff&hide_border=true&langs_count=6" />
+      </td>
+      <td width="50%" align="center">
+        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true&area_color=3776AB&point_color=3776AB&scale=5" />
 </p>
 
 ---
@@ -58,6 +67,10 @@
   <a href="https://prashantsubedi.info.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4EAA25?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=prashantsubedii&label=Profile%20Views&color=3776AB&style=flat-square" alt="visitor count" />
 </div>
 
 <br />
