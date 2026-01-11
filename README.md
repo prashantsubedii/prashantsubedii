@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" height="40" />
@@ -38,8 +38,7 @@
 ### 📊 Coding Activity
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&title_color=3776AB&text_color=ffffff&hide_border=true" />
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
 </p>
 
 <p align="center">
