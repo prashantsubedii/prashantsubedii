@@ -8,18 +8,29 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="300" />
 
-- **Current Focus:** Strengthening fundamentals of Python and Django.
-- **Interests:** Focused on Backend Development and AI/ML Engineering.
-- **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- **Workflow:** Translating complex logic into functional, user-centric projects.
-- **Status:** Learning with purpose, building with passion, improving with time.
+- Current Focus: Strengthening fundamentals of Python and Django.
+- Interests: Focused on Backend Development and AI/ML Engineering.
+- Education: Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
+- Workflow: Translating complex logic into functional, user-centric projects.
+- Status: Learning with purpose, building with passion, improving with time.
+
 <br clear="right" />
 
 ---
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" height="40" />
 </div>
 
 ---
@@ -31,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true&area_color=3776AB&point_color=3776AB&scale=5" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" />
 </p>
 
 ---
@@ -47,10 +58,6 @@
   <a href="https://prashantsubedi.info.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4EAA25?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- <img src="https://komarev.com/ghpvc/?username=prashantsubedii&label=Profile%20Views&color=3776AB&style=flat-square" alt="visitor count" /> -->
 </div>
 
 <br />
