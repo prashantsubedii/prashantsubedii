@@ -11,7 +11,7 @@
 - 🔭 **Current Focus:** Strengthening core concepts in Software Engineering.
 - 🐍 **Python:** Interested in writing clean, efficient, and readable code.
 - 🎓 **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- ⚙️ **Workflow:** Utilizing Git for version control and comfortable in Linux environments.
+- ⚙️ **Workflow:** Translating complex logic into functional, user-centric projects.
 - 🎯 **Goal:** Developing technical skills through academic and personal projects.
 
 <br clear="right" />
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&bg_color=00000000&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" />
 </p>
 
 ---
