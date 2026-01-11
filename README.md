@@ -51,7 +51,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=prashantsubedii&label=Profile%20Views&color=3776AB&style=flat-square" alt="visitor count" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=prashantsubedii&label=Profile%20Views&color=3776AB&style=flat-square" alt="visitor count" /> -->
 </div>
 
 <br />
