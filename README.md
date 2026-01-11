@@ -19,17 +19,21 @@
 ---
 
 ### 🛠️ Technical Stack
-
 <div align="center">
-  <p><b>Languages</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css&theme=dark" />
-  </a>
-  
+  <p style="margin-top:0;"><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+
   <br /> <p><b>Tools & Frameworks</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,django,docker,anaconda&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
 </div>
 
 ---
