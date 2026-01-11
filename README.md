@@ -18,9 +18,11 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,linux,git&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,linux,git,django,docker,anaconda&theme=dark" />
+  </a>
 </div>
 
 ---
@@ -28,7 +30,7 @@
 ### 📊 Coding Activity
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
 </p>
 
 <p align="center">
