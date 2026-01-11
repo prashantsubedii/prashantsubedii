@@ -1,34 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Prashant%20Subedi&fontSize=55&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header&text=Prashant%20Subedi&fontSize=50&animation=fadeIn&fontAlignY=30&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=55" width="100%"/>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ213anlzODd0Zm95ZzVmcXFsODllYjhwdnR3ajR6amQ1bm94N3lxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="320" />
 
-- 🔭 **Focus:** Engineering efficient software and exploring backend architectures.
-- 🐍 **Python:** Passionate about clean, readable, and Pythonic code.
+- 🔭 **Current Focus:** Strengthening core concepts in Software Engineering.
+- 🐍 **Python:** Interested in writing clean, efficient, and readable code.
 - 🎓 **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- ⚙️ **Workflow:** Comfortable with Git version control and Linux environments.
-- 📚 **Learning:** Currently strengthening fundamentals in Advanced C++ and DSA.
-- 🎯 **Goal:** Building impactful tools while growing as a Software Engineer.
+- ⚙️ **Workflow:** Utilizing Git for version control and comfortable in Linux environments.
+- 🎯 **Goal:** Developing technical skills through academic and personal projects.
 
 <br clear="right" />
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,linux,git,github,vscode,bash,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,linux,git&theme=dark" />
 </div>
 
 ---
 
-### 📊 Coding Activity
+### 📊 Proficiency & Activity
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&title_color=3776AB&text_color=555&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
 </p>
 
 ---
@@ -36,25 +36,19 @@
 ### 🤝 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/prashantsubedii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:contactprashantsubedi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://prashantsubedi.info.np" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/prashantsubedii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-4EAA25?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <p><i>"First, solve the problem. Then, write the code."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&section=footer" width="50%"/>
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&section=footer" width="30%"/>
 </div>
