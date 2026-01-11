@@ -27,18 +27,9 @@
 
 ### 📊 Coding Activity
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="85%">
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://metrics.lecoq.io/prashantsubedii?base=0&plugin_languages=1&plugin_languages_colors=3776AB&config_timezone=Asia/Kathmandu&bg_color=00000000&text_color=ffffff" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+</p>
 
 <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true&area_color=3776AB&point_color=3776AB&scale=5" />
