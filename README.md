@@ -25,13 +25,14 @@
 
 ---
 
-### 📊 Coding Velocity
-<p align="center">
-  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=nord&color=88c0d0&hide_border=true&area=true" />
-</p>
+### 📊 Coding Activity
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&bg_color=00000000&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
