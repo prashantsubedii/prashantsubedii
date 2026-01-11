@@ -18,10 +18,17 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Stack
+
 <div align="center">
+  <p><b>Languages</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,linux,git,django,docker,anaconda&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css&theme=dark" />
+  </a>
+  
+  <br /> <p><b>Tools & Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,django,docker,anaconda&theme=dark" />
   </a>
 </div>
 
