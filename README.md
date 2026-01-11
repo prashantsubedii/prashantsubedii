@@ -1,48 +1,63 @@
-<h1 align="center">Hi there 👋, I'm Prashant Subedi</h1>
-<p align="center">B.Sc. CSIT Student | Aspiring Software Engineer</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=Prashant%20Subedi&fontSize=75&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=20&descAlignY=60" width="100%"/>
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDd6aDV2c24wOHNuMWxrbDhzdWxna3JlbTJnNzdsa2RhMHhqcHd1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+### 🚀 About Me
 
-### 👨‍🎓 About Me
-- **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- **Interests:** Focused on Web Development and Software Engineering.
-- **Current Learning:** Strengthening fundamentals in Python and C++.
-- **Workflow:** Enthusiastic about Linux and version control with Git.
-- **Status:** Actively working on academic projects and improving technical skills.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ213anlzODd0Zm95ZzVmcXFsODllYjhwdnR3ajR6amQ1bm94N3lxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="220" />
+
+- 🔭 **Focus:** Engineering efficient software and exploring backend architectures.
+- 🐍 **Python:** Passionate about clean, readable, and Pythonic code.
+- 🎓 **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
+- ⚙️ **Workflow:** Comfortable with Git version control and Linux environments.
+- 📚 **Learning:** Currently strengthening fundamentals in Advanced C++ and DSA.
+- 🎯 **Goal:** Building impactful tools while growing as a Software Engineer.
 
 <br clear="right" />
 
-### 💻 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+---
+
+### 🛠️ Technical Toolkit
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,linux,git,github,vscode,bash,mongodb&theme=dark" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prashantsubedii&show_icons=true&theme=transparent&title_color=3776AB&text_color=555&icon_color=3776AB&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
+### 📡 Connect With Me
+<div align="center">
   <a href="https://linkedin.com/in/prashantsubedii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/prashantsubedii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/prashanttsubedi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:contactprashantsubedi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://prashantsubedi.info.np" target="_blank">
-    <img src="https://img.shields.io/badge/Website-44AA00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/-Portfolio-white?style=flat&logo=google-chrome&logoColor=44AA00" />
   </a>
+  <a href="mailto:contactprashantsubedi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://twitter.com/prashantsubedii" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=1DA1F2" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=3776AB" width="85%" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=prashantsubedii&label=PROFILE+VISITS&color=3776AB&style=flat-square" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&section=footer" width="100%"/>
 </p>
