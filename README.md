@@ -12,8 +12,7 @@
 - **Interests:** Focused on Backend Development and AI/ML Engineering.
 - **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
 - **Workflow:** Translating complex logic into functional, user-centric projects.
-- **Goal:** Developing technical skills through academic and personal projects.
-
+- **Status:** Learning with purpose, building with passion, improving with time.
 <br clear="right" />
 
 ---
