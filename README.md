@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Prashant%20Subedi&fontSize=50&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=60" width="100%"/>
 </div>
