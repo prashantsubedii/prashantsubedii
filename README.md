@@ -19,6 +19,7 @@
 ---
 
 ### 🛠️ Languages and Tools <br>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
 </div>
