@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Prashant%20Subedi&fontSize=50&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=60" width="100%"/>
 </div>
@@ -21,25 +20,26 @@
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" title="Python" height="40" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
-  <img src="https://skillicons.dev/icons?i=django" title="Django" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
 </div>
+
+---
+
+### 🐍 Contribution Journey
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 
 ---
 
 ### 📊 Coding Activity
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantsubedii&show_icons=true&theme=transparent&title_color=3776AB&icon_color=FFD43B&text_color=ffffff&hide_border=true" alt="Prashant's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
