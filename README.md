@@ -19,15 +19,17 @@
 ---
 
 ### 🛠️ Languages and Tools
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
 </div>
+<br>
 
 ---
 
 ### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -35,15 +37,11 @@
 ### 📊 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantsubedii&show_icons=true&theme=transparent&title_color=3776AB&icon_color=FFD43B&text_color=ffffff&hide_border=true" alt="Prashant's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
