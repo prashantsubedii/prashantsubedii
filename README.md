@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=120&section=header&text=Prashant%20Subedi&fontSize=40&animation=fadeIn&fontAlignY=40&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=80&section=header&text=Prashant%20Subedi&fontSize=30&animation=fadeIn&fontAlignY=42&desc=B.Sc.%20CSIT%20Student%20|%20Aspiring%20Software%20Engineer&descSize=10&descAlignY=68" width="100%"/>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="250" />
 
 - Current Focus: Strengthening fundamentals of Python and Django.
 - Interests: Focused on Backend Development and AI/ML Engineering.
