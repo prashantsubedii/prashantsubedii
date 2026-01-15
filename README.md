@@ -33,8 +33,7 @@
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" />
   <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" height="40" />
 </div>
----
-![Snake animation](https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📊 Coding Activity
