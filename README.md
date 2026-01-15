@@ -4,36 +4,44 @@
 
 ---
 
-### 🚀 About Me
+### ABOUT ME
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="250" />
 
-- Current Focus: Strengthening fundamentals of Python and Django.
-- Interests: Focused on Backend Development and AI/ML Engineering.
-- Education: Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- Workflow: Translating complex logic into functional, user-centric projects.
-- Status: Learning with purpose, building with passion, improving with time.
+* **Focus:** Strengthening fundamentals of Python and Django.
+* **Interests:** Backend Development and AI/ML Engineering.
+* **Education:** B.Sc. CSIT at Tribhuvan University, Nepal.
+* **Workflow:** Translating complex logic into functional, user-centric projects.
+* **Objective:** Building scalable software with clean, efficient code.
 
 <br clear="right" />
 
 ---
 
-### 🛠️ Languages and Tools <br>
-<br>
+### TECHNICAL STACK
+<div style="height: 10px;"></div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
 </div>
 
+<div style="height: 10px;"></div>
+
 ---
 
-### 🐍 Contribution Journey
+### OPEN SOURCE CONTRIBUTIONS
+<div style="height: 10px;"></div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashantsubedii/prashantsubedii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<div style="height: 10px;"></div>
+
 ---
 
-### 📊 Coding Activity
+### ANALYTICS & ACTIVITY
+<div style="height: 10px;"></div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" alt="Streak Stats" />
@@ -43,9 +51,13 @@
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
+<div style="height: 10px;"></div>
+
 ---
 
-### 🤝 Connect With Me
+### CONTACT & NETWORKING
+<div style="height: 10px;"></div>
+
 <div align="center">
   <a href="https://linkedin.com/in/prashantsubedii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
