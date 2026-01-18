@@ -22,7 +22,17 @@
 <div style="height: 10px;"></div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,linux,git,django,docker,anaconda" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda" title="Anaconda"/>
 </div>
 
 <div style="height: 10px;"></div>
