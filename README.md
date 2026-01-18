@@ -43,9 +43,13 @@
 ### ANALYTICS & ACTIVITY
 <div style="height: 10px;"></div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsubedii&theme=transparent&stroke=3776AB&fire=FFD43B&ring=3776AB&currStreakLabel=3776AB&hide_border=true" alt="Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=999" height="165" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=prashantsubedii&theme=transparent&hide_border=true&stroke=3776AB&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" height="165" alt="Streak Stats" />
+</div>
+
+<div style="height: 10px;"></div>
 
 <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" alt="Activity Graph" />
