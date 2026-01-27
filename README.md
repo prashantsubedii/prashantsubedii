@@ -57,7 +57,7 @@
   <a href="https://prashantsubedi.info.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4EAA25?style=flat&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<div align="center">
+<div align="center"> <br>
   <p><i>"The best way to predict the future is to invent it."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&section=footer" width="30%"/>
 </div>
