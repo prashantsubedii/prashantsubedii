@@ -11,7 +11,7 @@
 - **Focus:** Advancing AI research through practical, code-based solutions.
 - **Interests:** AI/ML Engineering, Spatial Data & Scalable Backends.
 - **Education:** B.Sc. CSIT at **Tribhuvan University**, Nepal.
-- **Workflow:** Turning complex ML logic into user-centric AI solutions.
+- **Workflow:** Taking a project from an idea to a working application.
 - **Goal:** Building data-driven software for real-world impact.
 <br clear="right" />
 
