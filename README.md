@@ -8,7 +8,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="280" style="margin-left: 25px;" />
 
-- **Focus:** Developing and Deploying Intelligent Systems with Python.
+- **Focus:** Advancing AI research through practical, code-based solutions.
 - **Interests:** AI/ML Engineering, Spatial Data & Scalable Backends.
 - **Education:** B.Sc. CSIT at **Tribhuvan University**, Nepal.
 - **Workflow:** Turning complex ML logic into user-centric AI solutions.
