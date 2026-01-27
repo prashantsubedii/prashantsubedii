@@ -6,7 +6,7 @@
 
 ### ABOUT ME
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="220" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlxdDNsZW5lb3A2cTA0bWMyMDFucGFqd241MW54MHRxNnVwaG1sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" width="280" style="margin-left: 25px;" />
 
 - **Focus:** Predictive Modeling & Deep Learning (Python/Django).
 - **Interests:** AI/ML Engineering, Spatial Data & Scalable Backends.
@@ -19,7 +19,17 @@
 
 ### TECHNICAL STACK
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,c,cpp,js,html,css,linux,git,docker,anaconda" height="40" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="40" title="Anaconda"/>
 </div>
 
 ---
@@ -33,6 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsubedii&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=999" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=prashantsubedii&theme=transparent&hide_border=true&stroke=3776AB&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" height="150" alt="Streak Stats" />
 </div>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsubedii&theme=react&bg_color=00000000&color=2ecc71&line=3776AB&point=3776AB&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
